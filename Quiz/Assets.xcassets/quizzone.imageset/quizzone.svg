@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28.84" height="31.499" viewBox="0 0 28.84 31.499">
+  <g id="quizzone" transform="translate(-17.728 -413.744)">
+    <g id="Clock" transform="translate(19.844 414.494)">
+      <path id="Path_1927" data-name="Path 1927" d="M4121.747,4903.6a.746.746,0,0,1-.747-.746v-2.964a.747.747,0,0,1,1.493,0v2.964A.746.746,0,0,1,4121.747,4903.6Z" transform="translate(-4108.784 -4898.525)" fill="#4e5366" stroke="#4e5366" stroke-width="1.5"/>
+      <path id="Path_1928" data-name="Path 1928" d="M4102.841,4896.493h-8.095a.746.746,0,1,1,0-1.492h8.095a.746.746,0,1,1,0,1.492Z" transform="translate(-4085.814 -4895.001)" fill="#4e5366" stroke="#4e5366" stroke-width="1.5"/>
+      <path id="Path_1932" data-name="Path 1932" d="M4181.747,4935.284a.746.746,0,0,1-.528-1.273l1.791-1.792a.746.746,0,0,1,1.055,1.055l-1.791,1.791A.745.745,0,0,1,4181.747,4935.284Z" transform="translate(-4159.83 -4926.478)" fill="#4e5366" stroke="#4e5366" stroke-width="1.5"/>
+      <path id="Path_1933" data-name="Path 1933" d="M4053.538,4935.284a.745.745,0,0,1-.528-.219l-1.791-1.791a.746.746,0,0,1,1.055-1.055l1.792,1.792a.746.746,0,0,1-.528,1.273Z" transform="translate(-4049.232 -4926.478)" fill="#4e5366" stroke="#4e5366" stroke-width="1.5"/>
+      <path id="Path_1925" data-name="Path 1925" d="M4054.909,4922.292a13,13,0,0,0-15.755,11.894.749.749,0,0,0,.744.8h0a.742.742,0,0,0,.744-.692,11.493,11.493,0,1,1,12.164,12.164.742.742,0,0,0-.692.745h0a.749.749,0,0,0,.8.744,13,13,0,0,0,11.893-15.755A12.811,12.811,0,0,0,4054.909,4922.292Z" transform="translate(-4039.153 -4917.97)" fill="#4e5366" stroke="#4e5366" stroke-width="1.5"/>
+      <path id="Path_1926" data-name="Path 1926" d="M4121.747,4971.031a.746.746,0,0,1-.747-.746v-6.4a.747.747,0,0,1,1.493,0v6.4A.746.746,0,0,1,4121.747,4971.031Z" transform="translate(-4108.784 -4952.973)" fill="#4e5366" stroke="#4e5366" stroke-width="1.5"/>
+    </g>
+    <g id="lines" transform="translate(18.478 433.747)">
+      <path id="Path_1929" data-name="Path 1929" d="M4040.3,5025.492h-9.553a.746.746,0,0,1,0-1.492h9.553a.746.746,0,1,1,0,1.492Z" transform="translate(-4030.001 -5024)" fill="#4e5366" stroke="#4e5366" stroke-width="1.5"/>
+      <path id="Path_1930" data-name="Path 1930" d="M4054.817,5057.493h-7a.747.747,0,0,1,0-1.493h7a.747.747,0,0,1,0,1.493Z" transform="translate(-4044.519 -5051.224)" fill="#4e5366" stroke="#4e5366" stroke-width="1.5"/>
+      <path id="Path_1931" data-name="Path 1931" d="M4069.554,5087.492h-3.821a.746.746,0,1,1,0-1.492h3.821a.746.746,0,0,1,0,1.492Z" transform="translate(-4059.765 -5076.746)" fill="#4e5366" stroke="#4e5366" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

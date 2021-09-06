@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "defeat.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

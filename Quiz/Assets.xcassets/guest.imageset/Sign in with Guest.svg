@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
+  <g id="Sign_in_with_Guest" data-name="Sign in with Guest" transform="translate(-80)">
+    <g id="Button_Background" data-name="Button Background" transform="translate(80)">
+      <rect id="Button_Background_background" data-name="Button Background background" width="44" height="44" fill="rgba(0,0,0,0)"/>
+      <rect id="Button_Shape" data-name="Button Shape" width="44" height="44" rx="6" fill="#fff"/>
+    </g>
+    <path id="Icon_metro-user" data-name="Icon metro-user" d="M15.576,18.3V17.16a6.184,6.184,0,0,0,2.769-5.145c0-3.441,0-6.231-4.154-6.231s-4.154,2.79-4.154,6.231a6.184,6.184,0,0,0,2.769,5.145V18.3c-4.7.384-8.308,2.692-8.308,5.482H23.883c0-2.79-3.611-5.1-8.308-5.482Z" transform="translate(87.809 7.216)"/>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<svg id="ic_zoom" xmlns="http://www.w3.org/2000/svg" width="27" height="27" viewBox="0 0 27 27">
+  <path id="Path_19" data-name="Path 19" d="M0,0H27V27H0Z" fill="none"/>
+  <g id="magni" transform="translate(2.374 2.374)">
+    <path id="Path_18" data-name="Path 18" d="M18.679,16.8h-.991l-.351-.339a8.165,8.165,0,1,0-.878.878l.339.351v.991l6.271,6.259,1.869-1.869Zm-7.526,0A5.644,5.644,0,1,1,16.8,11.153,5.637,5.637,0,0,1,11.153,16.8Z" transform="translate(-3 -3)" fill="#00b3d5"/>
+    <path id="Path_20" data-name="Path 20" d="M12.644,10.386H10.386v2.258H9.258V10.386H7V9.258H9.258V7h1.129V9.258h2.258Z" transform="translate(-1.676 -1.675)" fill="#00b3d5"/>
+  </g>
+</svg>

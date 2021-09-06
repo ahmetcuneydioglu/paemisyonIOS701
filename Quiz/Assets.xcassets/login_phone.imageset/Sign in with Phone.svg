@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
+  <g id="Sign_in_with_Phone" data-name="Sign in with Phone" transform="translate(-80)">
+    <g id="Button_Background" data-name="Button Background" transform="translate(80)">
+      <rect id="Button_Background_background" data-name="Button Background background" width="44" height="44" fill="rgba(0,0,0,0)"/>
+      <rect id="Button_Shape" data-name="Button Shape" width="44" height="44" rx="6" fill="#fff"/>
+    </g>
+    <path id="Icon_awesome-mobile-alt" data-name="Icon awesome-mobile-alt" d="M9.563,0H1.688A1.688,1.688,0,0,0,0,1.687V16.313A1.688,1.688,0,0,0,1.687,18H9.563a1.688,1.688,0,0,0,1.687-1.687V1.688A1.688,1.688,0,0,0,9.562,0ZM5.625,16.875a1.124,1.124,0,1,1,.8-.329,1.125,1.125,0,0,1-.8.329Zm3.938-3.8a.423.423,0,0,1-.422.422H2.109a.423.423,0,0,1-.422-.422V2.109a.423.423,0,0,1,.422-.422H9.141a.423.423,0,0,1,.422.422Z" transform="translate(96.375 13)"/>
+  </g>
+</svg>

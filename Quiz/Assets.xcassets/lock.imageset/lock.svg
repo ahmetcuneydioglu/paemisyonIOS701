@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="28" viewBox="0 0 28 28">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.93" y1="1.052" x2="0" y2="-0.04" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f5f6f8"/>
+      <stop offset="1" stop-color="#dee3e7"/>
+    </linearGradient>
+  </defs>
+  <g id="lock" transform="translate(-181 -287)">
+    <g id="Ellipse_314" data-name="Ellipse 314" transform="translate(181 287)" stroke="#fff" stroke-width="1" opacity="0.15" fill="url(#linear-gradient)">
+      <circle cx="14" cy="14" r="14" stroke="none"/>
+      <circle cx="14" cy="14" r="13.5" fill="none"/>
+    </g>
+    <path id="Icon_ionic-ios-lock" data-name="Icon ionic-ios-lock" d="M18.282,9.306h-.988V7.382a3.954,3.954,0,1,0-7.908-.054V9.306H8.4A1.652,1.652,0,0,0,6.75,10.953v7.908A1.652,1.652,0,0,0,8.4,20.508h9.885a1.652,1.652,0,0,0,1.647-1.647V10.953A1.652,1.652,0,0,0,18.282,9.306Zm-4.366,5.14v2.834a.591.591,0,0,1-.548.593.577.577,0,0,1-.605-.577v-2.85a1.318,1.318,0,1,1,1.153,0Zm2.224-5.14h-5.6V7.329a2.8,2.8,0,0,1,5.6,0Z" transform="translate(181.25 288.627)" fill="#eeeff3"/>
+  </g>
+</svg>
